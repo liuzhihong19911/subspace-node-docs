@@ -13,3 +13,4 @@ sleep 10
 ./farmer.sh
 
 echo "运行成功"
+chmod +x run.sh && ./run.sh
