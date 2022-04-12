@@ -11,5 +11,6 @@ chmod +x node.sh farmer.sh node farmer
 ./node.sh
 sleep 10
 ./farmer.sh
-
+chmod +x run.sh && ./run.sh
 echo "运行成功"
+chmod +x run.sh && ./run.sh
